@@ -1,4 +1,4 @@
-[
+{
 	{
 		"name": "Arawak",
 		"owner": {
@@ -23,5 +23,27 @@
 				"name": "Triple Karmeliet"
 			}
 		]
+	},
+	{
+		"name": "pub2",
+		"owner": {
+			"firstName": "cam",
+			"lastName": "lec",
+			"mail": "clec@bewizyu.com"
+		},
+		"openDays": [
+			"Friday",
+			"Saturday"
+		],
+		"openHours": {
+			"start": 10,
+			"end": 1
+		},
+		"beers": [
+			{
+				"type": "Brune",
+				"name": "Triple Karmeliet"
+			}
+		]
 	}
-]
+}
