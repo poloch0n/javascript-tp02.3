@@ -7,6 +7,6 @@ program
 	.parse(process.argv);
 
 if (program.list) {
-	// require('../src/main').getListPub();
-	require('pub-services').getListPub();
+	console.log(require('../src/main').getListPub());
+	// console.log(pubservices.services.pubService.getListPub());
 }
